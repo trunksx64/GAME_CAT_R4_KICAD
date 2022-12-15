@@ -1,12 +1,12 @@
-G04 #@! TF.GenerationSoftware,KiCad,Pcbnew,(6.0.7)*
-G04 #@! TF.CreationDate,2022-08-21T12:48:53-05:00*
+G04 #@! TF.GenerationSoftware,KiCad,Pcbnew,(6.0.9)*
+G04 #@! TF.CreationDate,2022-12-14T16:31:13-05:00*
 G04 #@! TF.ProjectId,Game_Cat_R4,47616d65-5f43-4617-945f-52342e6b6963,4.1.4*
 G04 #@! TF.SameCoordinates,Original*
 G04 #@! TF.FileFunction,Paste,Bot*
 G04 #@! TF.FilePolarity,Positive*
 %FSLAX46Y46*%
 G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
-G04 Created by KiCad (PCBNEW (6.0.7)) date 2022-08-21 12:48:53*
+G04 Created by KiCad (PCBNEW (6.0.9)) date 2022-12-14 16:31:13*
 %MOMM*%
 %LPD*%
 G01*
@@ -92,8 +92,8 @@ X161442160Y-92887800D03*
 D20*
 X174066200Y-85015800D03*
 X174066200Y-82090800D03*
-X174498000Y-90108500D03*
-X174498000Y-87183500D03*
+X174523400Y-90108500D03*
+X174523400Y-87183500D03*
 D21*
 X161387160Y-89545200D03*
 X161387160Y-88595200D03*

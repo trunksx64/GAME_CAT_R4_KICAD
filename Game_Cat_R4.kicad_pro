@@ -135,11 +135,7 @@
         0.4064,
         0.4572,
         0.508,
-        0.5588,
-        0.6,
         0.6096,
-        0.6604,
-        0.762,
         0.8128,
         1.0,
         1.016,
@@ -180,6 +176,10 @@
           "drill": 0.45
         },
         {
+          "diameter": 0.82,
+          "drill": 0.4
+        },
+        {
           "diameter": 0.85,
           "drill": 0.5
         },
@@ -193,11 +193,11 @@
         },
         {
           "diameter": 1.0,
-          "drill": 0.65
+          "drill": 0.4
         },
         {
-          "diameter": 1.016,
-          "drill": 0.4064
+          "diameter": 1.0,
+          "drill": 0.65
         },
         {
           "diameter": 1.05,
@@ -214,10 +214,6 @@
         {
           "diameter": 1.2,
           "drill": 0.85
-        },
-        {
-          "diameter": 1.27,
-          "drill": 0.6096
         },
         {
           "diameter": 1.35,
@@ -458,7 +454,7 @@
     "classes": [
       {
         "bus_width": 12.0,
-        "clearance": 0.0762,
+        "clearance": 0.127,
         "diff_pair_gap": 0.25,
         "diff_pair_via_gap": 0.25,
         "diff_pair_width": 0.25,
