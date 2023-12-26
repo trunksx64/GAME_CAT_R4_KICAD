@@ -2762,7 +2762,7 @@
     (property "Value" "500mA" (at 53.34 20.1676 90)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "Resistor_SMD:R_1812_4532Metric" (at 53.34 21.082 90)
+    (property "Footprint" "x_Fuses:MF-SMDF200-2" (at 53.34 21.082 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 53.34 22.86 0)
