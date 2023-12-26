@@ -1,6 +1,6 @@
 # Game//Cat ::: Revisión R4 :: Versión 4.14
 
-![](https://github.com/trunksx64/GAME_CAT_R4_KICAD/blob/main/Images/Front.png)
+![](https://github.com/trunksx64/GAME_CAT_R4_KICAD/blob/master/Images/Front.png)
 
 ## Razón de Ser e Inspiración
 
@@ -84,12 +84,12 @@ Algunos Elementos "Footprints" y "Symbols" están basados en mis librerías, cu�
 
 ## Créditos
 
-![](https://github.com/trunksx64/GAME_CAT_R4_KICAD/blob/main/Images/Banner_GameCat_R4.png)
+![](https://github.com/trunksx64/GAME_CAT_R4_KICAD/blob/master/Images/Banner_GameCat_R4.png)
 
 xDNA Electronics & Desing es una Micro-empresa Personal, que se dedica y encarga de elaborar proyectos de Control y Automatización por pedido, su idea es colaborar y ayudar a quines a si lo requieran, el proyecto se hizo principalmente como Hobby el cual gracias a terceros se pudo implementar y hacer su creación, por lo cual se da la libertad de usarlo para experimentar sin hacer uso comercial del mismo.
 
 ## Licencia
 
-![](https://github.com/trunksx64/GAME_CAT_R4_KICAD/blob/main/Images/Creative_Commons.png)
+![](https://github.com/trunksx64/GAME_CAT_R4_KICAD/blob/master/Images/Creative_Commons.png)
 
 Licensed under Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)
