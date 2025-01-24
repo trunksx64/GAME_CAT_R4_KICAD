@@ -80,7 +80,8 @@ Algunos Elementos "Footprints" y "Symbols" están basados en mis librerías, cu�
 * 2021 : 4.1.2 : Conectores Moles de tres pines a cuatro pines para Alimentación externar de dispositivos.
 * 2021 : 4.1.3 : Correción y cambio de puerto de Programación SWD RJ11 a Header 2x3, similar al AVR SPI.
 * 2021 : 4.1.4 : Cambio de Resistencias del conversor de nivel 5V-3.3V de 1K a 10K.
-* 2021 : 4.1.5 : Se agregó Interruptor de Encendio por Batería con control Mosfet.
+* 2022 : 4.1.5 : Se agregó Interruptor de Encendio por Batería con control Mosfet.
+* 2025 : 4.2.2 : Se Corrige mosfet de los LEDs de Estado y Conexion del BUS I2C con otras correciones menores.
 
 ## Créditos
 
