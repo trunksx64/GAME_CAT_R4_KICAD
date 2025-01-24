@@ -1,8 +1,8 @@
-# Game//Cat ::: Revisión R4 :: Versión 4.14
+# Game//Cat ::: Revisión R4 :: Versión 4.2.2
 
 ![](https://github.com/trunksx64/GAME_CAT_R4_KICAD/blob/master/Images/Front.png)
 
-## Razón de Ser e Inspiración
+## Razón e Inspiración
 
 El Game//Cat R4 es la evolución del microcontrolador de 16Bits a 32Bits, mas específicamente del PIC24H al ATSAMD21 como núcleo de control, al igual que su antecesor la idea de esta tarjeta y/ó control de desarrollo es usar dispositivos específicos para el aprendizaje, bricolaje y Hobby para proyectos abiertos o de diseño cerrado, el Hardware el Libre con la posibilidad de adaptarlo, modificarlo, cambiarlo a necesidad, claramente respetando al original. El ATSAMD21 es un microcontrolador Originalmente diseñado por ATMEL que utiliza un Nucleo ARM 0M+ dando la ventaja de ser un microcontrolador fácil de usar con Módulos flexibles y robustos, con documentación abundante tanto por lo Comunidad de ARDUINO y la empresa Microchip en este momento. Se diseñó empleando de forma similar la apariencia del Game//Cat R3, agregando mejoras y eliminando errores del anterior, por lo cual es 100% compatible a nivel de diseño.
 
@@ -81,7 +81,7 @@ Algunos Elementos "Footprints" y "Symbols" están basados en mis librerías, cu�
 * 2021 : 4.1.3 : Correción y cambio de puerto de Programación SWD RJ11 a Header 2x3, similar al AVR SPI.
 * 2021 : 4.1.4 : Cambio de Resistencias del conversor de nivel 5V-3.3V de 1K a 10K.
 * 2022 : 4.1.5 : Se agregó Interruptor de Encendio por Batería con control Mosfet.
-* 2025 : 4.2.2 : Se Corrige mosfet de los LEDs de Estado y Conexion del BUS I2C con otras correciones menores.
+* 2025 : 4.2.2 : Se Corrige mosfet de los LEDs de Estado y Conexion del BUS I2C.
 
 ## Créditos
 
