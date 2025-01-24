@@ -4824,7 +4824,7 @@
 		(uuid "f47ba0cc-ecae-4aef-a30d-acee22ce59db")
 	)
 	(no_connect
-		(at 35.56 59.69)
+		(at 35.56 62.23)
 		(uuid "1aa01b33-85ec-45ea-bfaa-b88738576f2f")
 	)
 	(no_connect
@@ -4832,15 +4832,15 @@
 		(uuid "260f62f6-a6cf-45e0-9208-51504e701f69")
 	)
 	(no_connect
-		(at 35.56 68.58)
+		(at 35.56 71.12)
 		(uuid "2f1df4d4-ea41-4805-990c-fc64e9beb3f8")
 	)
 	(no_connect
-		(at 35.56 41.91)
+		(at 35.56 44.45)
 		(uuid "4d759aa0-1145-43ae-a507-a45f6fc89e2a")
 	)
 	(no_connect
-		(at 35.56 53.34)
+		(at 35.56 50.8)
 		(uuid "62b6b2b3-6ade-4e95-8062-936451a2172f")
 	)
 	(no_connect
@@ -5310,16 +5310,6 @@
 			(type default)
 		)
 		(uuid "30b75c25-1d2c-45e7-83e2-bb3be98f8f83")
-	)
-	(wire
-		(pts
-			(xy 36.83 41.91) (xy 48.26 41.91)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "318b1c02-8f98-40e0-8672-6e5f766110ad")
 	)
 	(wire
 		(pts
@@ -6153,7 +6143,7 @@
 	)
 	(wire
 		(pts
-			(xy 35.56 62.23) (xy 36.83 62.23)
+			(xy 35.56 59.69) (xy 60.96 59.69)
 		)
 		(stroke
 			(width 0)
@@ -6473,16 +6463,6 @@
 	)
 	(wire
 		(pts
-			(xy 36.83 71.12) (xy 36.83 68.58)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "93b580d1-c2df-48c4-9d06-465ca9d3eebc")
-	)
-	(wire
-		(pts
 			(xy 25.4 50.8) (xy 22.86 50.8)
 		)
 		(stroke
@@ -6500,16 +6480,6 @@
 			(type default)
 		)
 		(uuid "957e99ed-3dec-4441-87c3-e844402e70b0")
-	)
-	(wire
-		(pts
-			(xy 36.83 68.58) (xy 67.31 68.58)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "95e16380-a797-4ef6-bc92-67bfd44afe75")
 	)
 	(wire
 		(pts
@@ -6603,7 +6573,7 @@
 	)
 	(wire
 		(pts
-			(xy 35.56 50.8) (xy 54.61 50.8)
+			(xy 35.56 53.34) (xy 54.61 53.34)
 		)
 		(stroke
 			(width 0)
@@ -6673,7 +6643,7 @@
 	)
 	(wire
 		(pts
-			(xy 35.56 44.45) (xy 36.83 44.45)
+			(xy 35.56 41.91) (xy 48.26 41.91)
 		)
 		(stroke
 			(width 0)
@@ -6973,16 +6943,6 @@
 	)
 	(wire
 		(pts
-			(xy 36.83 62.23) (xy 36.83 59.69)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "b67db6fb-e010-4837-9b46-419c0d446aba")
-	)
-	(wire
-		(pts
 			(xy 222.25 39.37) (xy 222.25 41.91)
 		)
 		(stroke
@@ -7083,7 +7043,7 @@
 	)
 	(wire
 		(pts
-			(xy 35.56 71.12) (xy 36.83 71.12)
+			(xy 35.56 68.58) (xy 67.31 68.58)
 		)
 		(stroke
 			(width 0)
@@ -7100,16 +7060,6 @@
 			(type default)
 		)
 		(uuid "baaf14d0-0c5c-4bf0-82d7-5ee71082500d")
-	)
-	(wire
-		(pts
-			(xy 36.83 59.69) (xy 60.96 59.69)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "bb857b3f-cfd2-48ea-8ae4-988435afb17f")
 	)
 	(wire
 		(pts
@@ -7213,16 +7163,6 @@
 	)
 	(wire
 		(pts
-			(xy 36.83 44.45) (xy 36.83 41.91)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "ccefc75b-fd16-4e82-963f-281710a98051")
-	)
-	(wire
-		(pts
 			(xy 167.64 55.88) (xy 187.96 55.88)
 		)
 		(stroke
@@ -7303,7 +7243,7 @@
 	)
 	(wire
 		(pts
-			(xy 54.61 41.91) (xy 54.61 50.8)
+			(xy 54.61 41.91) (xy 54.61 53.34)
 		)
 		(stroke
 			(width 0)
@@ -8108,7 +8048,7 @@
 		(uuid "ce824579-a256-4757-8547-32bf1db63637")
 	)
 	(label "Button_B"
-		(at 38.1 50.8 0)
+		(at 38.1 53.34 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -9943,7 +9883,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm"
+		(property "Footprint" "Package_SO:SOIC-8W_5.3x5.3mm_P1.27mm"
 			(at 39.37 123.19 0)
 			(effects
 				(font
@@ -15507,7 +15447,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_SO:SOIJ-8_5.3x5.3mm_P1.27mm"
+		(property "Footprint" "Package_SO:SOIC-8W_5.3x5.3mm_P1.27mm"
 			(at 113.03 187.96 0)
 			(effects
 				(font
