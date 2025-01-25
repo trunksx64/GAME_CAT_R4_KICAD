@@ -588,7 +588,7 @@
       "idf": "",
       "netlist": "",
       "plot": "Gerber/",
-      "pos_files": "",
+      "pos_files": "Gerber/",
       "specctra_dsn": "",
       "step": "../../../../../Escritorio/Game_Cat_R4.step",
       "svg": "",
