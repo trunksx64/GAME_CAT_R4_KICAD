@@ -7994,7 +7994,6 @@
 	)
 	(label "Button_A"
 		(at 38.1 41.91 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8005,7 +8004,6 @@
 	)
 	(label "Ligth"
 		(at 242.57 40.64 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8016,7 +8014,6 @@
 	)
 	(label "Button_R"
 		(at 38.1 83.82 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8027,7 +8024,6 @@
 	)
 	(label "Button_L"
 		(at 38.1 77.47 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8038,7 +8034,6 @@
 	)
 	(label "Button_Y"
 		(at 38.1 68.58 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8049,7 +8044,6 @@
 	)
 	(label "Button_B"
 		(at 38.1 53.34 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8060,7 +8054,6 @@
 	)
 	(label "Button_X"
 		(at 38.1 59.69 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
