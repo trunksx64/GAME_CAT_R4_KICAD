@@ -81,7 +81,9 @@ Algunos Elementos "Footprints" y "Symbols" están basados en mis librerías, cu�
 * 2021 : 4.1.3 : Correción y cambio de puerto de Programación SWD RJ11 a Header 2x3, similar al AVR SPI.
 * 2021 : 4.1.4 : Cambio de Resistencias del conversor de nivel 5V-3.3V de 1K a 10K.
 * 2022 : 4.1.5 : Se agregó Interruptor de Encendio por Batería con control Mosfet.
-* 2025 : 4.2.2 : Se Corrige mosfet de los LEDs de Estado y Conexion del BUS I2C.
+* 2024 : 4.1.6 : Se Elimia Resistencia de Pull para la Linea SWCLK.
+* 2024 : 4.1.8 : Se Elimia Diodo del Control de Batería del control Mosfet
+* 2025 : 4.2.2 : Se Corrige Mosfet de los LEDs de Estado y Conexion del BUS I2C.
 
 ## Créditos
 
