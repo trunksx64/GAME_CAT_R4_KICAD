@@ -1,5 +1,5 @@
-### Footprint positions - created on 2025-01-24T19:03:50-0500 ###
-### Printed by KiCad version 8.0.7
+### Footprint positions - created on 2025-05-25T14:12:23-0500 ###
+### Printed by KiCad version 9.0.2
 ## Unit = mm, Angle = deg.
 ## Side : bottom
 # Ref     Val         Package                                    PosX       PosY       Rot  Side
@@ -12,19 +12,18 @@ C37       47pF        C_0805_2012Metric                      182.0291  -107.3150
 C38       15pF        C_1206_3216Metric                      186.8170   -95.0590   90.0000  bottom
 C39       4.7uF       CP_EIA-3216-18_Kemet-A                 171.7040   -99.6500   90.0000  bottom
 C40       100nF       C_1206_3216Metric                      175.8950  -102.0214  -90.0000  bottom
-C42       47pF        C_1206_3216Metric                      171.4500  -106.8389   90.0000  bottom
+C42       47pF        C_1206_3216Metric                      171.4500  -107.7107   90.0000  bottom
 C43       100nF       C_1206_3216Metric                      169.0447   -89.9795  180.0000  bottom
-C44       100nF       C_1206_3216Metric                      169.3367   -83.5431   90.0000  bottom
+C44       100nF       C_1206_3216Metric                      171.7548   -83.5431   90.0000  bottom
 C45       1uF         CP_EIA-3216-18_Kemet-A                 175.3674   -96.5200  180.0000  bottom
 D3        NUP2105L    SOT-23                                 145.5420   -72.5170   90.0000  bottom
 D6        1N5819HW    D_SOD-123                              178.2766  -102.0214   90.0000  bottom
-D7        BAT60J      D_SOD-323_HandSoldering                171.7548   -83.5533   90.0000  bottom
 D8        BAT60J      D_SOD-323_HandSoldering                176.7370   -93.2132   90.0000  bottom
-G***      LOGO        xdna_electronics_design_round_skill    122.5550  -117.4242  180.0000  bottom
 G***      LOGO        xdna_electronics_design_round_copper   122.5550  -117.4242  180.0000  bottom
+G***      LOGO        xdna_electronics_design_round_skill    122.5550  -117.4242  180.0000  bottom
 L2        BLM18PG471  L_1206_3216Metric                      164.0307   -83.6422  -90.0000  bottom
-L3        82103C      L_Murata_82103C                        177.6476  -107.1689  -90.0000  bottom
-Q4        DMP3056L    SOT-23                                 168.6647   -92.9132  180.0000  bottom
+L3        82103C      L_Murata_82103C                        177.6476  -108.0282  -90.0000  bottom
+Q4        FDN340P     SOT-23                                 168.6647   -92.9132  180.0000  bottom
 Q5        NTR1P02LT1  SOT-23                                 173.4820   -92.9132  180.0000  bottom
 R6        120R        R_1206_3216Metric                      145.7960   -81.2800  -90.0000  bottom
 R32       0R          R_1206_3216Metric                      123.3820   -80.2640   90.0000  bottom
@@ -36,12 +35,12 @@ R37       30K         R_1206_3216Metric                      182.0776  -110.0455
 R38       2K          R_1206_3216Metric                      162.9047   -92.8878  180.0000  bottom
 R39       10K         R_1206_3216Metric                      169.0247   -87.6300    0.0000  bottom
 R40       180         R_1206_3216Metric                      174.0662   -83.5533   90.0000  bottom
-R42       10K         R_1206_3216Metric                      174.0766  -106.8514   90.0000  bottom
+R42       10K         R_1206_3216Metric                      174.0766  -107.7107   90.0000  bottom
 R43       3K          R_1206_3216Metric                      186.3448  -103.3803   90.0000  bottom
 R44       2K          R_1206_3216Metric                      174.5234   -88.6460   90.0000  bottom
 R60       0R          R_1206_3216Metric                      136.3820   -80.2640   90.0000  bottom
 R62       0R          R_1206_3216Metric                       96.7125   -78.9686    0.0000  bottom
-R64       0R          R_1206_3216Metric                      171.4500  -112.8776   90.0000  bottom
+R64       0R          R_1206_3216Metric                      171.4500  -113.3362   90.0000  bottom
 U11       MCP73831    SOT-23-5                               162.5247   -88.5952    0.0000  bottom
 U12       TPS54231    SOIC-8_3.9x4.9mm_P1.27mm               182.3316  -102.1080  -90.0000  bottom
 ## End

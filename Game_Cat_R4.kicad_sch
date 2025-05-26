@@ -1,7 +1,7 @@
 (kicad_sch
-	(version 20231120)
+	(version 20250114)
 	(generator "eeschema")
-	(generator_version "8.0")
+	(generator_version "9.0")
 	(uuid "96315415-cfed-47d2-b3dd-d782358bd0df")
 	(paper "USLetter")
 	(title_block
@@ -11,6 +11,58 @@
 		(company "Xdna Electronics & Design")
 	)
 	(lib_symbols)
+	(text "POWER SUPPLY \n& CHARGE BATTERY"
+		(exclude_from_sim no)
+		(at 226.06 109.347 0)
+		(effects
+			(font
+				(size 2.286 2.286)
+				(thickness 0.4572)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
+		(uuid "015f5586-ba76-4a98-9114-f5cd2c67134d")
+	)
+	(text "MICRO\nCONTROLLER"
+		(exclude_from_sim no)
+		(at 112.395 184.912 0)
+		(effects
+			(font
+				(size 2.286 2.286)
+				(thickness 0.4572)
+				(bold yes)
+			)
+			(justify bottom)
+		)
+		(uuid "41485de5-6ed3-4c83-b69e-ef83ae18093c")
+	)
+	(text "USB &\nCOMMUNICATIONS"
+		(exclude_from_sim no)
+		(at 192.024 45.466 0)
+		(effects
+			(font
+				(size 2.286 2.286)
+				(thickness 0.4572)
+				(bold yes)
+			)
+			(justify bottom)
+		)
+		(uuid "46cbe85d-ff47-428e-b187-4ebd50a66e0c")
+	)
+	(text "JOYSTCK\nBUTTONS & SENSES"
+		(exclude_from_sim no)
+		(at 78.994 45.72 0)
+		(effects
+			(font
+				(size 2.286 2.286)
+				(thickness 0.4572)
+				(bold yes)
+			)
+			(justify bottom)
+		)
+		(uuid "a5362821-c161-4c7a-a00c-40e1d7472d56")
+	)
 	(polyline
 		(pts
 			(xy 228.6 125.73) (xy 226.06 123.19)
@@ -4863,64 +4915,34 @@
 			"JL3zF44thJAsQ7GAEGIEXwyEkECh8ECASu6EiZK3Y1vzFBLYD6LrB9enZnG5NAMATKpMCCGEYwYh"
 			"JLVQHCCEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQ"
 			"QgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEA3/"
-			"D37TCukN8zBGAAAAAElFTkSuQmCC"
+			"D37TCukN8zBGAAAAAElFTkSuQmCCAABqAAAAWgAAAGkAAAA1AAAAaQAAAEMAAAB3AAAATAAAAHoA"
+			"AABnAAAANAAAAEkAAABOAAAAWAAAAEwAAABzAAAAYwAAAEgAAAByAAAAdwAAAFQAAAArAAAAOAAA"
+			"AHQAAAB3AAAAOQAAAGUAAABQAAAARQAAAHYAAABVAAAANAAAAHAAAAB1AAAAVwAAAEcAAAAwAAAA"
+			"YwAAAGUAAAA1AAAAWQAAAC8AAABJAAAAdAAAAFcAAABFAAAAWQAAAGcAAABLAAAAcAAAACsAAABr"
+			"AAAAMgAAAFQAAAB2AAAAVQAAAEMAAAA4AAAAdQAAAHUAAABIAAAAVgAAAGMAAABqAAAANwAAAHQA"
+			"AAAyAAAAUwAAAHMAAABWAAAAWAAAAEUAAABwAAAAMwAAADcAAABoAAAAOAAAAHQAAAArAAAAYgAA"
+			"ADYAAABaAAAAQwAAAGUAAAAyAAAAMQAAAGsAAAA1AAAAcgAAAGQAAABOAAAAWAAAADEAAABrAAAA"
+			"VwAAAE0AAABXAAAAcgAAAFMAAABjAAAAMQAAAGcAAABiAAAAcAAAACsAAABlAAAAdQAAADMAAABR"
+			"AAAAZgAAAEcAAAAwAAAANQAAAGoAAABYAAAALwAAAGIAAAA1AAAAbQAAAFkAAABtAAAASQAAADYA"
+			"AAArAAAATwAAAFcAAAB1AAAAZwAAADEAAAA4AAAAOAAAAHEAAABaAAAAMQAAAE0AAABJAAAAZgAA"
+			"AEcAAABSAAAAOAAAAGIAAAA4AAAANwAAADEAAAArAAAANwAAAFQAAABVAAAAbwAAAFoAAABYAAAA"
+			"QwAAAEYAAABoAAAAUQAAAGMAAAB6AAAAagAAAG4AAABwAAAANwAAAEMAAABvAAAASgAAAFgAAABW"
+			"AAAAcAAAAHAAAAA0AAAAaQAAAHcAAABHAAAAaAAAADgAAAB2AAAAVAAAAG4AAABvAAAAVwAAAEsA"
+			"AAAzAAAANQAAAFgAAAB3AAAAOAAAADEAAAAzAAAASQAAAFAAAABZAAAAaAAAAGwAAABJAAAAMQAA"
+			"AHQAAABvAAAATgAAAFUAAABsAAAANQAAADMAAAB6AAAAeQAAAHIAAAA4AAAAMgAAAE8AAABCAAAA"
+			"VQAAAFcAAABuAAAASAAAADYAAABmAAAAUwAAAHMAAABvAAAAOAAAAE8AAABYAAAAbAAAAC8AAABw"
+			"AAAAYQAAAHUAAABYAAAAUwAAADcAAAAyAAAALwAAAEcAAABtAAAAMAAAAG8AAAA5AAAAcgAAADMA"
+			"AABjAAAAQwAAAEEAAABvAAAAVQAAAGUAAAB1AAAAcwAAAGIAAABZAAAAMwAAAEMAAAB1AAAAcQAA"
+			"AFYAAABuAAAAeQAAADYAAABKAA=="
 		)
-	)
-	(text "POWER SUPPLY \n& CHARGE BATTERY"
-		(exclude_from_sim no)
-		(at 226.06 109.347 0)
-		(effects
-			(font
-				(size 2.286 2.286)
-				(thickness 0.4572)
-				(bold yes)
-			)
-			(justify left bottom)
-		)
-		(uuid "015f5586-ba76-4a98-9114-f5cd2c67134d")
-	)
-	(text "MICRO\nCONTROLLER"
-		(exclude_from_sim no)
-		(at 112.395 184.912 0)
-		(effects
-			(font
-				(size 2.286 2.286)
-				(thickness 0.4572)
-				(bold yes)
-			)
-			(justify bottom)
-		)
-		(uuid "41485de5-6ed3-4c83-b69e-ef83ae18093c")
-	)
-	(text "USB &\nCOMMUNICATIONS"
-		(exclude_from_sim no)
-		(at 192.024 45.466 0)
-		(effects
-			(font
-				(size 2.286 2.286)
-				(thickness 0.4572)
-				(bold yes)
-			)
-			(justify bottom)
-		)
-		(uuid "46cbe85d-ff47-428e-b187-4ebd50a66e0c")
-	)
-	(text "JOYSTCK\nBUTTONS & SENSES"
-		(exclude_from_sim no)
-		(at 78.994 45.72 0)
-		(effects
-			(font
-				(size 2.286 2.286)
-				(thickness 0.4572)
-				(bold yes)
-			)
-			(justify bottom)
-		)
-		(uuid "a5362821-c161-4c7a-a00c-40e1d7472d56")
 	)
 	(sheet
 		(at 180.34 49.53)
 		(size 25.4 25.4)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
 		(fields_autoplaced yes)
 		(stroke
 			(width 0)
@@ -4960,6 +4982,10 @@
 	(sheet
 		(at 228.6 113.03)
 		(size 25.4 26.035)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
 		(fields_autoplaced yes)
 		(stroke
 			(width 0)
@@ -4999,6 +5025,10 @@
 	(sheet
 		(at 99.06 149.86)
 		(size 26.035 25.4)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
 		(fields_autoplaced yes)
 		(stroke
 			(width 0)
@@ -5038,6 +5068,10 @@
 	(sheet
 		(at 67.31 49.53)
 		(size 25.4 25.4)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
 		(fields_autoplaced yes)
 		(stroke
 			(width 0)
@@ -5079,4 +5113,5 @@
 			(page "1")
 		)
 	)
+	(embedded_fonts no)
 )
