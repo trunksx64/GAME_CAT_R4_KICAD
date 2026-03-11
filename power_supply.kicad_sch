@@ -6085,7 +6085,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.yageo.com/upload/media/product/products/datasheet/rchip/PYu-RC_Group_51_RoHS_L_12.pdf"
 			(at 43.18 36.83 0)
 			(effects
 				(font
@@ -6095,6 +6095,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 43.18 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digikey" "RC1206JR-07470RL"
 			(at 43.18 36.83 0)
 			(effects
 				(font
@@ -6145,7 +6154,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_0805_2012Metric_Castellated"
+		(property "Footprint" "LED_SMD:LED_0805_2012Metric"
 			(at 43.18 45.72 0)
 			(effects
 				(font
@@ -6154,7 +6163,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/895/LTST-C170GKT.pdf"
 			(at 43.18 45.72 0)
 			(effects
 				(font
@@ -6165,6 +6174,15 @@
 		)
 		(property "Description" ""
 			(at 43.18 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digikey" "LTST-C170GKT"
+			(at 43.18 45.72 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6214,7 +6232,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_0805_2012Metric_Castellated"
+		(property "Footprint" "LED_SMD:LED_0805_2012Metric"
 			(at 43.18 55.88 0)
 			(effects
 				(font
@@ -6223,7 +6241,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/895/LTST-C170GKT.pdf"
 			(at 43.18 55.88 0)
 			(effects
 				(font
@@ -6234,6 +6252,15 @@
 		)
 		(property "Description" ""
 			(at 43.18 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digikey" "LTST-C170GKT"
+			(at 43.18 55.88 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6292,7 +6319,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.yageo.com/upload/media/product/products/datasheet/rchip/PYu-RC_Group_51_RoHS_L_12.pdf"
 			(at 43.18 64.77 0)
 			(effects
 				(font
@@ -6302,6 +6329,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 43.18 64.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digikey" "RC1206JR-07470RL"
 			(at 43.18 64.77 0)
 			(effects
 				(font
@@ -6556,7 +6592,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.yageo.com/upload/media/product/products/datasheet/rchip/PYu-RC_Group_51_RoHS_L_12.pdf"
 			(at 74.93 60.96 0)
 			(effects
 				(font
@@ -6566,6 +6602,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 74.93 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digikey" "RC1206FR-072KL"
 			(at 74.93 60.96 0)
 			(effects
 				(font
@@ -6755,7 +6800,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://datasheets.kyocera-avx.com/TAJ.pdf"
 			(at 83.82 60.96 0)
 			(effects
 				(font
@@ -6765,6 +6810,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 83.82 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digikey" "TAJA475K016RNJ"
 			(at 83.82 60.96 0)
 			(effects
 				(font
@@ -6880,7 +6934,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "x_Connector_JST:Connector_1x02_P2.0mm"
+		(property "Footprint" "x_Connector_JST:S2B_PH_SM4_TB"
 			(at 95.25 59.436 90)
 			(effects
 				(font
@@ -6958,7 +7012,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.yageo.com/upload/media/product/products/datasheet/rchip/PYu-RC_Group_51_RoHS_L_12.pdf"
 			(at 104.14 50.8 0)
 			(effects
 				(font
@@ -6968,6 +7022,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 104.14 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digikey" "RC1206FR-0710KL"
 			(at 104.14 50.8 0)
 			(effects
 				(font
@@ -7027,7 +7090,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.yageo.com/upload/media/product/products/datasheet/rchip/PYu-RC_Group_51_RoHS_L_12.pdf"
 			(at 104.14 60.96 0)
 			(effects
 				(font
@@ -7037,6 +7100,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 104.14 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digikey" "RC1206JR-07180RL"
 			(at 104.14 60.96 0)
 			(effects
 				(font
@@ -7095,7 +7167,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.onsemi.com/pdf/datasheet/fdn340p-d.pdf"
 			(at 116.84 48.26 0)
 			(effects
 				(font
@@ -7106,6 +7178,15 @@
 		)
 		(property "Description" ""
 			(at 116.84 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digikey" "FDN340P"
+			(at 116.84 48.26 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7367,7 +7448,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.onsemi.com/pdf/datasheet/ntr1p02lt1-d.pdf"
 			(at 134.62 43.18 0)
 			(effects
 				(font
@@ -7378,6 +7459,15 @@
 		)
 		(property "Description" ""
 			(at 134.62 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digikey" "NTR1P02LT1G"
+			(at 134.62 43.18 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7439,7 +7529,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.st.com/content/ccc/resource/technical/document/datasheet/3d/d2/27/1d/20/e3/4d/48/CD00001944.pdf/files/CD00001944.pdf/jcr:content/translations/en.CD00001944.pdf"
 			(at 149.86 38.1 0)
 			(effects
 				(font
@@ -7450,6 +7540,15 @@
 		)
 		(property "Description" ""
 			(at 149.86 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digikey" "BAT60JFILM"
+			(at 149.86 38.1 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7508,7 +7607,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.yageo.com/upload/media/product/products/datasheet/rchip/PYu-RC_Group_51_RoHS_L_12.pdf"
 			(at 142.24 59.69 0)
 			(effects
 				(font
@@ -7518,6 +7617,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 142.24 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digikey" "RC1206FR-072KL"
 			(at 142.24 59.69 0)
 			(effects
 				(font
@@ -7642,7 +7750,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://datasheets.kyocera-avx.com/TAJ.pdf"
 			(at 149.86 59.69 0)
 			(effects
 				(font
@@ -7652,6 +7760,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 149.86 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digikey" "TAJA105K016RNJ"
 			(at 149.86 59.69 0)
 			(effects
 				(font
@@ -7839,7 +7956,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "http://www.ti.com/lit/ds/symlink/tps54233.pdf"
+		(property "Datasheet" "https://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=https%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Ftps54231"
 			(at 100.33 109.22 0)
 			(effects
 				(font
@@ -7849,6 +7966,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 100.33 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digikey" "TPS54231D"
 			(at 100.33 107.95 0)
 			(effects
 				(font
@@ -7926,7 +8052,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://product.tdk.com/system/files/dam/doc/product/capacitor/ceramic/mlcc/catalog/mlcc_commercial_soft_en.pdf"
 			(at 43.18 119.38 0)
 			(effects
 				(font
@@ -7936,6 +8062,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 43.18 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digikey" "C3216X7R2E104K160AE"
 			(at 43.18 119.38 0)
 			(effects
 				(font
@@ -7995,7 +8130,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.yageo.com/upload/media/product/products/datasheet/rchip/PYu-RC_Group_51_RoHS_L_12.pdf"
 			(at 53.34 107.95 0)
 			(effects
 				(font
@@ -8005,6 +8140,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 53.34 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digikey" "RC1206FR-07332RL"
 			(at 53.34 107.95 0)
 			(effects
 				(font
@@ -8064,7 +8208,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.yageo.com/upload/media/product/products/datasheet/rchip/PYu-RC_Group_51_RoHS_L_12.pdf"
 			(at 53.34 118.11 0)
 			(effects
 				(font
@@ -8074,6 +8218,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 53.34 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digikey" "RC1206FR-0768KL"
 			(at 53.34 118.11 0)
 			(effects
 				(font
@@ -8133,7 +8286,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://datasheets.kyocera-avx.com/TAJ.pdf"
 			(at 64.77 115.57 0)
 			(effects
 				(font
@@ -8143,6 +8296,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 64.77 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digikey" "TAJA105K016RNJ"
 			(at 64.77 115.57 0)
 			(effects
 				(font
@@ -8202,7 +8364,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.yageo.com/upload/media/product/products/datasheet/rchip/PYu-RC_Group_51_RoHS_L_12.pdf"
 			(at 64.77 124.46 0)
 			(effects
 				(font
@@ -8212,6 +8374,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 64.77 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digikey" "RC1206FR-0730KL"
 			(at 64.77 124.46 0)
 			(effects
 				(font
@@ -8466,7 +8637,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GCM31A5C3A470FX01-00B.pdf"
 			(at 74.93 123.19 0)
 			(effects
 				(font
@@ -8476,6 +8647,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 74.93 123.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digikey" "GRM21A5C2E470JW01D"
 			(at 74.93 123.19 0)
 			(effects
 				(font
@@ -8600,7 +8780,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GCM31A5C3A150FX01-00B.pdf"
 			(at 86.36 123.19 0)
 			(effects
 				(font
@@ -8610,6 +8790,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 86.36 123.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digikey" "GCM31A5C3A150FX01D"
 			(at 86.36 123.19 0)
 			(effects
 				(font
@@ -8734,7 +8923,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://product.tdk.com/system/files/dam/doc/product/capacitor/ceramic/mlcc/catalog/mlcc_commercial_soft_en.pdf"
 			(at 118.11 107.95 0)
 			(effects
 				(font
@@ -8744,6 +8933,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 118.11 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digikey" "C3216X7R2E104K160AE"
 			(at 118.11 107.95 0)
 			(effects
 				(font
@@ -8870,7 +9068,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://pim.murata.com/asset/pim4/inductor/KMP_8200C_PDF_INDUCTOR?lastModifiedDatetime=20250708075932"
 			(at 124.46 113.03 0)
 			(effects
 				(font
@@ -8881,6 +9079,15 @@
 		)
 		(property "Description" ""
 			(at 124.46 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digikey" "82103C"
+			(at 124.46 113.03 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8939,7 +9146,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GCM31A5C3A470FX01-00B.pdf"
 			(at 129.54 118.11 0)
 			(effects
 				(font
@@ -8949,6 +9156,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 129.54 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digikey" "GCM31A5C3A470FX01D"
 			(at 129.54 118.11 0)
 			(effects
 				(font
@@ -9006,15 +9222,25 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://ww1.microchip.com/downloads/aemDocuments/documents/APID/ProductDocuments/DataSheets/MCP73831-Family-Data-Sheet-DS20001984H.pdf"
 			(at 46.228 39.37 0)
 			(effects
 				(font
 					(size 1.524 1.524)
 				)
+				(hide yes)
 			)
 		)
 		(property "Description" ""
+			(at 59.69 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digikey" "MCP73831T-5ACI/OT"
 			(at 59.69 48.26 0)
 			(effects
 				(font
@@ -9083,7 +9309,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.yageo.com/upload/media/product/products/datasheet/rchip/PYu-RC_Group_51_RoHS_L_12.pdf"
 			(at 139.7 118.11 0)
 			(effects
 				(font
@@ -9093,6 +9319,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 139.7 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digikey" "RC1206FR-0710KL"
 			(at 139.7 118.11 0)
 			(effects
 				(font
@@ -9152,7 +9387,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.yageo.com/upload/media/product/products/datasheet/rchip/PYu-RC_Group_51_RoHS_L_12.pdf"
 			(at 139.7 128.27 0)
 			(effects
 				(font
@@ -9162,6 +9397,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 139.7 128.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digikey" "RC1206FR-073KL"
 			(at 139.7 128.27 0)
 			(effects
 				(font
@@ -9546,7 +9790,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.yageogroup.com/content/datasheet/asset/file/PYU-RC_GROUP_51_ROHS_L"
 			(at 50.8 173.99 0)
 			(effects
 				(font
@@ -9557,6 +9801,15 @@
 		)
 		(property "Description" ""
 			(at 50.8 173.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digikey" "RC1206FR-0710KL"
+			(at 50.8 173.99 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9615,7 +9868,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.yageogroup.com/content/datasheet/asset/file/PYU-RC_GROUP_51_ROHS_L"
 			(at 50.8 176.53 0)
 			(effects
 				(font
@@ -9626,6 +9879,15 @@
 		)
 		(property "Description" ""
 			(at 50.8 176.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digikey" "RC1206FR-0710KL"
+			(at 50.8 176.53 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9666,7 +9928,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "BS138"
+		(property "Value" "BSS138"
 			(at 202.0824 112.903 0)
 			(effects
 				(font
@@ -9684,7 +9946,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.onsemi.jp/pdf/datasheet/bss138-d.pdf"
 			(at 196.85 111.76 0)
 			(effects
 				(font
@@ -9694,6 +9956,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 196.85 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digikey" "BSS138"
 			(at 196.85 111.76 0)
 			(effects
 				(font
@@ -9754,7 +10025,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.yageo.com/upload/media/product/products/datasheet/rchip/PYu-RC_Group_51_RoHS_L_12.pdf"
 			(at 193.04 119.38 0)
 			(effects
 				(font
@@ -9765,6 +10036,15 @@
 		)
 		(property "Description" ""
 			(at 193.04 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digikey" "RC1206FR-0710KL"
+			(at 193.04 119.38 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9821,7 +10101,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.yageo.com/upload/media/product/products/datasheet/rchip/PYu-RC_Group_51_RoHS_L_12.pdf"
 			(at 193.04 104.14 0)
 			(effects
 				(font
@@ -9832,6 +10112,15 @@
 		)
 		(property "Description" ""
 			(at 193.04 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digikey" "RC1206FR-0710KL"
+			(at 193.04 104.14 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9938,7 +10227,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "BS138"
+		(property "Value" "BSS138"
 			(at 202.0824 148.463 0)
 			(effects
 				(font
@@ -9956,7 +10245,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.onsemi.jp/pdf/datasheet/bss138-d.pdf"
 			(at 196.85 147.32 0)
 			(effects
 				(font
@@ -9966,6 +10255,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 196.85 147.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digikey" "BSS138"
 			(at 196.85 147.32 0)
 			(effects
 				(font
@@ -10026,7 +10324,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.yageo.com/upload/media/product/products/datasheet/rchip/PYu-RC_Group_51_RoHS_L_12.pdf"
 			(at 193.04 154.94 0)
 			(effects
 				(font
@@ -10037,6 +10335,15 @@
 		)
 		(property "Description" ""
 			(at 193.04 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digikey" "RC1206FR-0710KL"
+			(at 193.04 154.94 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10093,7 +10400,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.yageo.com/upload/media/product/products/datasheet/rchip/PYu-RC_Group_51_RoHS_L_12.pdf"
 			(at 193.04 139.7 0)
 			(effects
 				(font
@@ -10104,6 +10411,15 @@
 		)
 		(property "Description" ""
 			(at 193.04 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digikey" "RC1206FR-0710KL"
+			(at 193.04 139.7 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10884,7 +11200,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/895/LTST-C170GKT.pdf"
 			(at 184.15 35.56 0)
 			(effects
 				(font
@@ -10895,6 +11211,15 @@
 		)
 		(property "Description" ""
 			(at 184.15 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digikey" "LTST-C170GKT"
+			(at 184.15 35.56 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10953,7 +11278,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.yageo.com/upload/media/product/products/datasheet/rchip/PYu-RC_Group_51_RoHS_L_12.pdf"
 			(at 184.15 26.67 0)
 			(effects
 				(font
@@ -10963,6 +11288,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 184.15 26.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digikey" "RC1206JR-0733RL"
 			(at 184.15 26.67 0)
 			(effects
 				(font
@@ -11152,7 +11486,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM3195C1H113JA01-01A.pdf"
 			(at 119.38 181.61 0)
 			(effects
 				(font
@@ -11162,6 +11496,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 119.38 181.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digikey" "GRM3195C1H113JA01D"
 			(at 119.38 181.61 0)
 			(effects
 				(font
@@ -11221,7 +11564,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.yageo.com/upload/media/product/products/datasheet/rchip/PYu-RC_Group_51_RoHS_L_12.pdf"
 			(at 119.38 167.64 0)
 			(effects
 				(font
@@ -11231,6 +11574,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 119.38 167.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digikey" "RC1206FR-0710KL"
 			(at 119.38 167.64 0)
 			(effects
 				(font
@@ -11485,7 +11837,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.ckswitches.com/media/1471/pts645.pdf"
 			(at 101.6 181.61 0)
 			(effects
 				(font
@@ -11496,6 +11848,15 @@
 		)
 		(property "Description" ""
 			(at 106.68 181.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digikey" "PTS645SK50SMTR92 LFS"
+			(at 106.68 181.61 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11619,7 +11980,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.st.com/content/ccc/resource/technical/document/datasheet/3d/d2/27/1d/20/e3/4d/48/CD00001944.pdf/files/CD00001944.pdf/jcr:content/translations/en.CD00001944.pdf"
 			(at 113.03 167.64 0)
 			(effects
 				(font
@@ -11630,6 +11991,15 @@
 		)
 		(property "Description" ""
 			(at 113.03 167.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digikey" "BAT60JFILM"
+			(at 113.03 167.64 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11659,7 +12029,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "16cb4e3e-6738-41e6-b783-199a95b73f7f")
 		(property "Reference" "TP12"
 			(at 59.69 29.21 0)
@@ -11725,7 +12095,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "1d43bfec-a555-49ed-9152-0b17d49f627e")
 		(property "Reference" "TP13"
 			(at 54.61 100.33 0)
@@ -12128,7 +12498,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "6c463047-00f1-4ce9-bbd4-880e9fe3095a")
 		(property "Reference" "TP11"
 			(at 52.07 29.21 0)
@@ -12288,7 +12658,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.yageogroup.com/content/datasheet/asset/file/PYU-RC_GROUP_51_ROHS_L"
 			(at 237.49 116.84 0)
 			(effects
 				(font
@@ -12299,6 +12669,15 @@
 		)
 		(property "Description" ""
 			(at 237.49 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digikey" "RC1206FR-0710KL"
+			(at 237.49 116.84 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12423,7 +12802,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.yageogroup.com/content/datasheet/asset/file/PYU-RC_GROUP_51_ROHS_L"
 			(at 25.4 168.91 0)
 			(effects
 				(font
@@ -12434,6 +12813,15 @@
 		)
 		(property "Description" ""
 			(at 25.4 168.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digikey" "RC1206FR-0710KL"
+			(at 25.4 168.91 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12530,7 +12918,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "b629a0d0-ba74-4b4a-a6a7-c23b208e8fda")
 		(property "Reference" "TP14"
 			(at 133.35 99.06 0)
@@ -12691,7 +13079,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.yageogroup.com/content/datasheet/asset/file/PYU-RC_GROUP_51_ROHS_L"
 			(at 139.7 107.95 0)
 			(effects
 				(font
@@ -12701,6 +13089,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 139.7 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digikey" "RC1206FR-0710KL"
 			(at 139.7 107.95 0)
 			(effects
 				(font
@@ -12731,7 +13128,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "cf0d4591-faed-4266-99ec-cf0bef4cc7c6")
 		(property "Reference" "TP29"
 			(at 50.8 185.42 0)
