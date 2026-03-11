@@ -7024,7 +7024,7 @@
 				)
 			)
 		)
-		(property "Value" "500mA"
+		(property "Value" "2016L100PR"
 			(at 53.34 20.1676 90)
 			(effects
 				(font
@@ -7041,7 +7041,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.littelfuse.com/media?resourcetype=datasheets&itemid=0a3f187e-62df-469f-85be-57fe3e3b4668&filename=littelfuse_ptc_2016l_datasheet.pdf"
 			(at 53.34 22.86 0)
 			(effects
 				(font
@@ -7052,6 +7052,15 @@
 		)
 		(property "Description" ""
 			(at 53.34 22.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digikey" "2016L100PR"
+			(at 53.34 22.86 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7538,7 +7547,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/386/SWR25X-NRTC-Sxx-Rx-BA.pdf"
 			(at 257.81 58.42 0)
 			(effects
 				(font
@@ -7547,7 +7556,16 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "CONN HEADER R/A 3POS 2.54MM"
+			(at 257.81 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digikey" "SWR25X-NRTC-S03-RB-BA"
 			(at 257.81 58.42 0)
 			(effects
 				(font
@@ -8606,7 +8624,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "00000000-0000-0000-0000-00005f392c65")
 		(property "Reference" "JP1"
 			(at 219.71 69.85 0)
@@ -8633,7 +8651,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://content.harwin.com/m/847482046069c548/original/PD008-Product-Datasheet-INDESS-range-M20-and-M22-BBi.pdf"
 			(at 219.71 72.39 0)
 			(effects
 				(font
@@ -8643,6 +8661,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 219.71 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digikey" "M20-9990245"
 			(at 219.71 72.39 0)
 			(effects
 				(font
@@ -11249,7 +11276,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/386/SWR25X-NRTC-Sxx-Rx-BA.pdf"
 			(at 246.38 129.54 0)
 			(effects
 				(font
@@ -11259,6 +11286,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 246.38 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digikey" "SWR25X-NRTC-S04-RB-BA"
 			(at 246.38 129.54 0)
 			(effects
 				(font

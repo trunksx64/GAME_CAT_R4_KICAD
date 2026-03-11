@@ -10895,7 +10895,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.farnell.com/datasheets/1580320.pdf"
 			(at 158.75 102.87 0)
 			(effects
 				(font
@@ -10904,7 +10904,16 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "CDS PHOTORESISTOR 100KOHM TO-18"
+			(at 158.75 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digikey" "N5AC501085"
 			(at 158.75 101.6 0)
 			(effects
 				(font
@@ -11622,75 +11631,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:Buzzer")
-		(at 248.92 88.9 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "00000000-0000-0000-0000-00005d2f9d70")
-		(property "Reference" "BZ1"
-			(at 252.7808 88.1634 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "Buzzer"
-			(at 252.7808 90.4748 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Buzzer_Beeper:Buzzer_12x9.5RM7.6"
-			(at 248.285 86.36 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 248.285 86.36 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 248.92 88.9 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "209503c4-68e0-4957-8fbc-4e2fdc265dc3")
-		)
-		(pin "2"
-			(uuid "02fcd1b2-c70a-436b-88d4-f6524e9e42f5")
-		)
-		(instances
-			(project "Game_Cat_R4"
-				(path "/96315415-cfed-47d2-b3dd-d782358bd0df/00000000-0000-0000-0000-00005ce8b424"
-					(reference "BZ1")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:Q_PNP_BEC")
 		(at 241.3 99.06 0)
 		(mirror x)
@@ -11709,7 +11649,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "2N2907"
+		(property "Value" "MMBT2907A"
 			(at 246.126 100.203 0)
 			(effects
 				(font
@@ -11727,7 +11667,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/900/MMBT2907A_Rev2016.pdf"
 			(at 241.3 99.06 0)
 			(effects
 				(font
@@ -11737,6 +11677,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 241.3 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digikey" "MMBT2907A-7-F"
 			(at 241.3 99.06 0)
 			(effects
 				(font
@@ -12820,8 +12769,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "2N2907"
-			(at 247.8786 48.133 0)
+		(property "Value" "MMBT2907A"
+			(at 263.144 51.562 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12838,7 +12787,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/900/MMBT2907A_Rev2016.pdf"
 			(at 252.73 46.99 0)
 			(effects
 				(font
@@ -12848,6 +12797,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 252.73 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digikey" "MMBT2907A-7-F"
 			(at 252.73 46.99 0)
 			(effects
 				(font
@@ -14235,15 +14193,25 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/6129/ssw-1xx-xx-xxx-x-xx-xxx-xx-mkt.pdf"
 			(at 229.87 25.4 0)
 			(effects
 				(font
 					(size 3.048 3.048)
 				)
+				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "CONN RCPT 8POS 0.1 GOLD PCB"
+			(at 229.87 25.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digikey" "SSW-108-01-F-S"
 			(at 229.87 25.4 0)
 			(effects
 				(font
@@ -14325,6 +14293,7 @@
 				(font
 					(size 1.524 1.524)
 				)
+				(hide yes)
 			)
 		)
 		(property "Description" ""
@@ -16664,15 +16633,25 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://configured-product-images.s3.amazonaws.com/Datasheets/TL3300.pdf"
 			(at 30.48 43.18 0)
 			(effects
 				(font
 					(size 1.524 1.524)
 				)
+				(hide yes)
 			)
 		)
 		(property "Description" ""
+			(at 30.48 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digikey" "TL3300AF160Q"
 			(at 30.48 41.91 0)
 			(effects
 				(font
@@ -16736,15 +16715,25 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://configured-product-images.s3.amazonaws.com/Datasheets/TL3300.pdf"
 			(at 30.48 52.07 0)
 			(effects
 				(font
 					(size 1.524 1.524)
 				)
+				(hide yes)
 			)
 		)
 		(property "Description" ""
+			(at 30.48 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digikey" "TL3300AF160Q"
 			(at 30.48 50.8 0)
 			(effects
 				(font
@@ -16808,15 +16797,25 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://configured-product-images.s3.amazonaws.com/Datasheets/TL3300.pdf"
 			(at 30.48 60.96 0)
 			(effects
 				(font
 					(size 1.524 1.524)
 				)
+				(hide yes)
 			)
 		)
 		(property "Description" ""
+			(at 30.48 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digikey" "TL3300AF160Q"
 			(at 30.48 59.69 0)
 			(effects
 				(font
@@ -16880,15 +16879,25 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://configured-product-images.s3.amazonaws.com/Datasheets/TL3300.pdf"
 			(at 30.48 69.85 0)
 			(effects
 				(font
 					(size 1.524 1.524)
 				)
+				(hide yes)
 			)
 		)
 		(property "Description" ""
+			(at 30.48 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digikey" "TL3300AF160Q"
 			(at 30.48 68.58 0)
 			(effects
 				(font
@@ -16979,6 +16988,85 @@
 			(project "Game_Cat_R4"
 				(path "/96315415-cfed-47d2-b3dd-d782358bd0df/00000000-0000-0000-0000-00005ce8b424"
 					(reference "TP8")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:Buzzer")
+		(at 248.92 88.9 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "1bea2e31-8c63-4a02-84c2-71a3b933b8db")
+		(property "Reference" "BZ1"
+			(at 253.365 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Buzzer"
+			(at 253.365 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "x_Buzzer:AT_1224_TWT_5V_2_R"
+			(at 248.285 86.36 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://puiaudio.com/file/specs-AI-1223-TWT-3V-2-R.pdf"
+			(at 248.285 86.36 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "BUZZER MAGNETIC 3V 12MM TH"
+			(at 248.92 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digikey" "AI-1223-TWT-3V-2-R"
+			(at 248.92 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "d129d732-d953-4e73-b8d3-da732ce4df74")
+		)
+		(pin "2"
+			(uuid "1945e99c-a5e3-456b-a91c-7b572c83b375")
+		)
+		(instances
+			(project "Game_Cat_R4"
+				(path "/96315415-cfed-47d2-b3dd-d782358bd0df/00000000-0000-0000-0000-00005ce8b424"
+					(reference "BZ1")
 					(unit 1)
 				)
 			)

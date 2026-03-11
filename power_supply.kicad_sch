@@ -6943,7 +6943,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.jst-mfg.com/product/pdf/eng/ePH.pdf"
 			(at 95.25 59.436 90)
 			(effects
 				(font
@@ -6952,7 +6952,16 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "CONN HEADER SMD R/A 2POS 2MM"
+			(at 95.25 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digikey" "S2B-PH-SM4-TB"
 			(at 95.25 60.96 0)
 			(effects
 				(font
@@ -7247,7 +7256,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.ckswitches.com/media/1424/pcm.pdf"
 			(at 110.49 69.85 0)
 			(effects
 				(font
@@ -7257,6 +7266,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 110.49 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digikey" "PCM12SMTR"
 			(at 110.49 69.85 0)
 			(effects
 				(font
@@ -9001,7 +9019,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.diodes.com/assets/Datasheets/1N5819HWQ.pdf"
 			(at 118.11 118.11 0)
 			(effects
 				(font
@@ -9012,6 +9030,15 @@
 		)
 		(property "Description" ""
 			(at 118.11 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digikey" "1N5819HWQ-7-F"
+			(at 118.11 118.11 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12452,7 +12479,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/386/SWR25X-NRTC-Sxx-Rx-BA.pdf"
 			(at 245.11 109.22 0)
 			(effects
 				(font
@@ -12461,7 +12488,16 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "CONN HEADER R/A 4POS 2.54MM"
+			(at 245.11 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digikey" "SWR25X-NRTC-S04-RB-BA"
 			(at 245.11 109.22 0)
 			(effects
 				(font
@@ -13222,7 +13258,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.we-online.com/components/products/datasheet/61200621721.pdf"
 			(at 34.29 176.53 0)
 			(effects
 				(font
@@ -13231,7 +13267,16 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "CONN HEADER R/A 6POS 2.54MM"
+			(at 34.29 176.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digikey" "61200621721"
 			(at 34.29 176.53 0)
 			(effects
 				(font
